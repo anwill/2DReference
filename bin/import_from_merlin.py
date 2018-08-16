@@ -23,20 +23,13 @@ with open(csv_file, 'a', newline='') as csvfile:
         r = session.get("{}{}{}".format(base_url, dir_url, page))
 
         table = r.html.find("#super-product-table")
-        #pprint(table[0].html)
-
 
         tbody = table[0].find('tbody')
         rows = tbody[0].find('tr')
         for row in rows:
-            image = None
-            name = None
             cells = row.find('td')
             image = cells[0].find('a')[0].attrs['href']
-            #, attrs={'class': 'col-image'}).find('a', attrs={'class':'image-fancybox'}, href=True)['href']
             name = cells[1].find('div')[1].text
-            #row.find('td', attrs={'class': 'col-name'}).find('div', attrs={'class':'name'}).text
-            # Strip groups
             name = name.strip()
             brand = re.match(r"^\w+",name)
             temp_name = re.sub(r"\(group \d\)", '', name, re.IGNORECASE)
