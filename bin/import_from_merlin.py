@@ -1,8 +1,6 @@
 import urllib.request
 import urllib
 import re
-from bs4 import BeautifulSoup
-from pprint import pprint
 import csv
 from requests_html import HTMLSession
 import os

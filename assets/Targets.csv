@@ -1,75 +1,110 @@
-Manufacturer,Type,Name,Image
-Merlin,Big Game,Wildebeest (group 1),Wildebeest.jpg
-Merlin,Spider,Tarantula (group 4),Tarantula.jpg
-Merlin,Bird,Goose (group 3),Goose.jpg
-Merlin,Bird,Vulture (group 3),Vulture.jpg
-Merlin,Varmint,Armadillo (group 4),Armadillo.jpg
-LCC,Varmint,Small Game - Capybara,Small-Game---Capybara.jpg
-LCC,Boar,Small Animal - Warthog,Small-Animal---Warthog.jpg
-LCC,Deer,Small Animal - Topi,Small-Animal---Topi.jpg
-LCC,Deer,Small Animal - Hartebeest,Small-Animal---Hartebeest.jpg
-LCC,Varmint,Small Animal - Capybara 1,Small-Animal---Capybara-1.jpg
-LCC,Varmint,Small Animal - Armadillo,Small-Animal---Armadillo.jpg
-LCC,Big Cat,Medium Game - Tiger,Medium-Game---Tiger.jpg
-LCC,Big Game,Medium Game - Impala,Medium-Game---Impala.jpg
-LCC,Reptile,Medium Game - Crocodile,Medium-Game---Crocodile.jpg
-LCC,Big Game,Large Game - Zebra,Large-Game---Zebra.jpg
-LCC,Big Cat,Large Game - Lion,Large-Game---Lion.jpg
-LCC,Big Game,Large Animal - Rhino,Large-Animal---Rhino.jpg
-LCC,Big Game,Large Animal - Buffalo,Large-Animal---Buffalo.jpg
-JVD,Varmint,Squirrel - 80201,Squirrel---80201.jpg
-JVD,Bear,Bear - 80341,Bear---80341.jpg
-JVD,Deer,Deer - 80301,Deer---80301.jpg
-JVD,Bird,Pheasant - 80271,Pheasant---80271.jpg
-JVD,Varmint,Rabbit - 80241,Rabbit---80241.jpg
-JVD,Varmint,Ermine - 80211,Ermine---80211.jpg
-JVD,Deer,Large Deer - 80351,Large-Deer---80351.jpg
-JVD,Bird,Turkey - 80311,Turkey---80311.jpg
-JVD,Bird,Blue Grouse - 80281,Blue-Grouse---80281.jpg
-JVD,Bird,Duck - 80251,Duck---80251.jpg
-JVD,Bird,Jay - 80221,Jay---80221.jpg
-JVD,Bird,Partridge - 80331,Partridge---80331.jpg
-JVD,Predator,Fox - 80291,Fox---80291.jpg
-JVD,Varmint,Hare - 80261,Hare---80261.jpg
-JVD,Predator,Wolf - 80231,Wolf---80231.jpg
-Maximal,Deer,Grazing Deer,Grazing-Deer.jpg
-Maximal,Deer,Howling Deer,Howling-Deer.jpg
-Maximal,Boar,Wild Boar In Snow,Wild-Boar-In-Snow.jpg
-Maximal,Boar,Large Wild Boar,Large-Wild-Boar.jpg
-Maximal,Deer,Female Roe Deer Alert,Female-Roe-Deer-Alert.jpg
-Maximal,Deer,Roe Deer Alert,Roe-Deer-Alert.jpg
-Maximal,Deer,Medium Roe Deer,Medium-Roe-Deer.jpg
-Maximal,Boar,Medium Wild Boar,Medium-Wild-Boar.jpg
-Maximal,Bird,Mallard Duck,Mallard-Duck.jpg
-Maximal,Bird,Pheasent,Pheasent.jpg
-Maximal,Bird,Flying Falcon,Flying-Falcon.jpg
-Maximal,Bird,Canadian Goose,Canadian-Goose.jpg
-Maximal,Bird,Magpie,Magpie.jpg
-Maximal,Bird,Dove,Dove.jpg
-Maximal,Deer,Small Roe Deer,Small-Roe-Deer.jpg
-Maximal,Bird,Owl,Owl.jpg
-Maximal,Varmint,Hare Alert,Hare-Alert.jpg
-Maximal,Bird,Canadian Goose Alert,Canadian-Goose-Alert.jpg
-Maximal,Varmint,Raccoon,Raccoon.jpg
-Maximal,Predator,Fox,Fox.jpg
-Delta,Varmint,Prairie Dog/Skunk,Prairie-Dog-Skunk.jpg
-Delta,Big Game,Antelope,Antelope.jpg
-Delta,Big Game,Elk,Elk.jpg
-Delta,Predator,Fox,Fox.jpg
-Delta,Bear,Bear,Bear.jpg
-Delta,Deer,101 Whitetail Deer,101-Whitetail-Deer.jpg
-Delta,Boar,Wild Boar,Wild-Boar.jpg
-Delta,Bird,Full Strut Turkey,Full-Strut-Turkey.jpg
-Delta,Boar,Javelina,Javelina.jpg
-Delta,Goat,Bighorn Sheep,Bighorn-Sheep.jpg
-Delta,Varmint,Woodchuck/Rabbit,Woodchuck-Rabbit.jpg
-Delta,Bird,Wild Turkey,Wild-Turkey.jpg
-Delta,Deer,102 Whitetail Deer,102-Whitetail-Deer.jpg
-Delta,Predator,Coyote,Coyote.jpg
-Delta,Predator,Bobcat,Bobcat.jpg
-Delta,Predator,Cougar,Cougar.jpg
-Delta,Deer,Mule Deer,Mule-Deer.jpg
-Delta,Varmint,Raccoon,Raccoon.jpg
-Delta,Deer,203 Whitetail Deer,203-Whitetail-Deer.jpg
-Delta,Big Game,Caribou,Caribou.jpg
-Delta,Bird,Pheasent/Squirrel,Pheasent-Squirrel.jpg
+Manufacturer,Type,Name,Image,,,
+Merlin,Big Game,Wildebeest (group 1),Wildebeest.jpg,,,
+Merlin,Spider,Tarantula (group 4),Tarantula.jpg,,,
+Merlin,Bird,Goose (group 3),Goose.jpg,,,
+Merlin,Bird,Vulture (group 3),Vulture.jpg,,,
+Merlin,Varmint,Armadillo (group 4),Armadillo.jpg,,,
+LCC,Varmint,Small Game - Capybara,Small-Game---Capybara.jpg,,,
+LCC,Boar,Small Animal - Warthog,Small-Animal---Warthog.jpg,,,
+LCC,Deer,Small Animal - Topi,Small-Animal---Topi.jpg,,,
+LCC,Deer,Small Animal - Hartebeest,Small-Animal---Hartebeest.jpg,,,
+LCC,Varmint,Small Animal - Capybara 1,Small-Animal---Capybara-1.jpg,,,
+LCC,Varmint,Small Animal - Armadillo,Small-Animal---Armadillo.jpg,,,
+LCC,Big Cat,Medium Game - Tiger,Medium-Game---Tiger.jpg,,,
+LCC,Big Game,Medium Game - Impala,Medium-Game---Impala.jpg,,,
+LCC,Reptile,Medium Game - Crocodile,Medium-Game---Crocodile.jpg,,,
+LCC,Big Game,Large Game - Zebra,Large-Game---Zebra.jpg,,,
+LCC,Big Cat,Large Game - Lion,Large-Game---Lion.jpg,,,
+LCC,Big Game,Large Animal - Rhino,Large-Animal---Rhino.jpg,,,
+LCC,Big Game,Large Animal - Buffalo,Large-Animal---Buffalo.jpg,,,
+JVD,Varmint,Squirrel - 80201,Squirrel---80201.jpg,,,
+JVD,Bear,Bear - 80341,Bear---80341.jpg,,,
+JVD,Deer,Deer - 80301,Deer---80301.jpg,,,
+JVD,Bird,Pheasant - 80271,Pheasant---80271.jpg,,,
+JVD,Varmint,Rabbit - 80241,Rabbit---80241.jpg,,,
+JVD,Varmint,Ermine - 80211,Ermine---80211.jpg,,,
+JVD,Deer,Large Deer - 80351,Large-Deer---80351.jpg,,,
+JVD,Bird,Turkey - 80311,Turkey---80311.jpg,,,
+JVD,Bird,Blue Grouse - 80281,Blue-Grouse---80281.jpg,,,
+JVD,Bird,Duck - 80251,Duck---80251.jpg,,,
+JVD,Bird,Jay - 80221,Jay---80221.jpg,,,
+JVD,Bird,Partridge - 80331,Partridge---80331.jpg,,,
+JVD,Predator,Fox - 80291,Fox---80291.jpg,,,
+JVD,Varmint,Hare - 80261,Hare---80261.jpg,,,
+JVD,Predator,Wolf - 80231,Wolf---80231.jpg,,,
+Maximal,Deer,Grazing Deer,Grazing-Deer.jpg,,,
+Maximal,Deer,Howling Deer,Howling-Deer.jpg,,,
+Maximal,Boar,Wild Boar In Snow,Wild-Boar-In-Snow.jpg,,,
+Maximal,Boar,Large Wild Boar,Large-Wild-Boar.jpg,,,
+Maximal,Deer,Female Roe Deer Alert,Female-Roe-Deer-Alert.jpg,,,
+Maximal,Deer,Roe Deer Alert,Roe-Deer-Alert.jpg,,,
+Maximal,Deer,Medium Roe Deer,Medium-Roe-Deer.jpg,,,
+Maximal,Boar,Medium Wild Boar,Medium-Wild-Boar.jpg,,,
+Maximal,Bird,Mallard Duck,Mallard-Duck.jpg,,,
+Maximal,Bird,Pheasent,Pheasent.jpg,,,
+Maximal,Bird,Flying Falcon,Flying-Falcon.jpg,,,
+Maximal,Bird,Canadian Goose,Canadian-Goose.jpg,,,
+Maximal,Bird,Magpie,Magpie.jpg,,,
+Maximal,Bird,Dove,Dove.jpg,,,
+Maximal,Deer,Small Roe Deer,Small-Roe-Deer.jpg,,,
+Maximal,Bird,Owl,Owl.jpg,,,
+Maximal,Varmint,Hare Alert,Hare-Alert.jpg,,,
+Maximal,Bird,Canadian Goose Alert,Canadian-Goose-Alert.jpg,,,
+Maximal,Varmint,Raccoon,Raccoon.jpg,,,
+Maximal,Predator,Fox,Fox.jpg,,,
+Delta,Varmint,Prairie Dog/Skunk,Prairie-Dog-Skunk.jpg,,,
+Delta,Big Game,Antelope,Antelope.jpg,,,
+Delta,Big Game,Elk,Elk.jpg,,,
+Delta,Predator,Fox,Fox.jpg,,,
+Delta,Bear,Bear,Bear.jpg,,,
+Delta,Deer,101 Whitetail Deer,101-Whitetail-Deer.jpg,,,
+Delta,Boar,Wild Boar,Wild-Boar.jpg,,,
+Delta,Bird,Full Strut Turkey,Full-Strut-Turkey.jpg,,,
+Delta,Boar,Javelina,Javelina.jpg,,,
+Delta,Goat,Bighorn Sheep,Bighorn-Sheep.jpg,,,
+Delta,Varmint,Woodchuck/Rabbit,Woodchuck-Rabbit.jpg,,,
+Delta,Bird,Wild Turkey,Wild-Turkey.jpg,,,
+Delta,Deer,102 Whitetail Deer,102-Whitetail-Deer.jpg,,,
+Delta,Predator,Coyote,Coyote.jpg,,,
+Delta,Predator,Bobcat,Bobcat.jpg,,,
+Delta,Predator,Cougar,Cougar.jpg,,,
+Delta,Deer,Mule Deer,Mule-Deer.jpg,,,
+Delta,Varmint,Raccoon,Raccoon.jpg,,,
+Delta,Deer,203 Whitetail Deer,203-Whitetail-Deer.jpg,,,
+Delta,Big Game,Caribou,Caribou.jpg,,,
+Delta,Bird,Pheasent/Squirrel,Pheasent-Squirrel.jpgBjorn,,Black Bear,Bjorn-Black-Bear---Group-1-Target-Face.jpg
+Bjorn,Bird,Black Grouse,Bjorn-Black-Grouse---Group-3-Target-Face.jpg,,,
+Bjorn,Varmint,Martin,Bjorn-Martin---Group-4-Target-Face.jpg,,,
+Bjorn,Bird,Pheasant,Bjorn-Pheasant---Group-4-Target-Face.jpg,,,
+Bjorn,Varmint,Squirrel,Bjorn-Squirrel---Group-4-Target-Face.jpg,,,
+Bjorn,Deer,Stag,Bjorn-Stag---Group-1-Target-Face.jpg,,,
+Bjorn,Predator,Wolverine,Bjorn-Wolverine---Group-2-Target-Face.jpg,,,
+Bjorn,Bird,Woodcock,Bjorn-Woodcock---Group-4-Target-Face.jpg,,,
+Martin,Big Game,Antelope,Martin-Antelope-(Group-2)-Target-Face.jpg,,,
+Martin,Deer,Broadside Deer,Martin-Broadside-Deer-(Group-2)Target-Face.jpg,,,
+Martin,Big Game,Elk,Martin-Elk-(Group-2)-Target-Face.jpg,,,
+Martin,Predator,Fox,Martin-Fox-(Group-3)-Target-Face.jpg,,,
+Martin,Deer,Grazing Deer,Martin-Grazing-Deer-(Group-2)-Target-Face.jpg,,,
+Martin,Boar,Javelina,Martin-Javelina-(Group-2)Target-Face.jpg,,,
+Martin,Goat,Ram,Martin-Ram-(Group-1)-Target-Face.jpg,,,
+Martin,Bird,Turkey,Martin-Turkey-(Group-3)Target-Face.jpg,,,
+NFAA,Bear,Black Bear,NFAA-Group-1-Target-Face---Black-Bear.jpg,,,
+NFAA,Big Game,Elk,NFAA-Group-1-Traget-Face---Elk.jpg,,,
+NFAA,Deer,Mule Deer,NFAA-Group-1-Traget-Face---Mule-Deer.jpg,,,
+NFAA,Predator,Mountain Lion,NFAA-Group-2-Target-Face---Mountain-Lion.jpg,,,
+NFAA,Goat,Pronghorn Antelope,NFAA-Group-2-Target-Face---Pronghorn-Antelope.jpg,,,
+NFAA,Deer,White Tail Deer,NFAA-Group-2-Target-Face---White-Tail-Deer.jpg,,,
+NFAA,Predator,Wolf,NFAA-Group-2-Target-Face---Wolf.jpg,,,
+NFAA,Bird,Canadian Goose,NFAA-Group-3-Target-Face---Canadian-Goose.jpg,,,
+NFAA,Predator,Coyote,NFAA-Group-3-Target-Face---Coyote.jpg,,,
+NFAA,Predator,Fox,NFAA-Group-3-Target-Face---Fox.jpg,,,
+NFAA,Boar,Javelina,NFAA-Group-3-Target-Face---Javelina.jpg,,,
+NFAA,Varmint,Racoon,NFAA-Group-3-Target-Face---Racoon.jpg,,,
+NFAA,Bird,Turkey,NFAA-Group-3-Target-Face---Turkey.jpg,,,
+NFAA,Varmint,Beaver,NFAA-Group-4-Target-Face---Beaver.jpg,,,
+NFAA,Bird,Crow,NFAA-Group-4-Target-Face---Crow.jpg,,,
+NFAA,Bird,Duck,NFAA-Group-4-Target-Face---Duck.jpg,,,
+NFAA,Bird,Grouse,NFAA-Group-4-Target-Face---Grouse.jpg,,,
+NFAA,Varmint,Jack Rabbitt,NFAA-Group-4-Target-Face---Jack-Rabbitt.jpg,,,
+NFAA,Varmint,Prairie Dog,NFAA-Group-4-Target-Face---Prairie-Dog.jpg,,,
+NFAA,Varmint,Squirrel,NFAA-Group-4-Target-Face---Squirrel.jpg,,,
