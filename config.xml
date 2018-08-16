@@ -11,11 +11,7 @@
   
   
   <platform name="android">
-	<icon src="assets/icon.png" density="xxhdpi" />
-    <splash src="res/screen/android/splash-port-hdpi.png" density="port-hdpi"/>
-    <splash src="res/screen/android/splash-port-xhdpi.png" density="port-xhdpi"/>
-	<splash src="res/screen/android/splash-port-xxhdpi.png" density="port-xxhdpi"/>
-	<splash src="res/screen/android/splash-port-xxxhdpi.png" density="port-xxxhdpi"/>
-</platform>
+	
+  </platform>
 
 </widget>
